@@ -22,7 +22,7 @@ This project aims to provide an affordable and efficient solution for women's sa
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/sumukhathreya/SOS-Alert-System.git`
+1. Clone the repository: `git clone https://github.com/sumukhathreya/SOS_Alert_System.git`
 2. Connect the components as per the circuit diagram provided in the provided document.
 3. Upload the Arduino code (`sos_alert_system.ino`) to the Arduino UNO board.
 4. Insert a SIM card with a valid data plan into the SIM800A GSM Module.
